@@ -6,3 +6,19 @@ Welcome to the Photography Website- a professional showcase of my personal photo
 A short snippet of the site
 
 https://github.com/user-attachments/assets/5ebc36a9-ffb0-47e8-a61a-8278baf848fa
+
+#Instructions
+
+1. First, clone the repository to your local machine using Git. Open cmd on windows and run the following command
+
+   git clone https://github.com/Benjamin-Bos207/Photography-Website.git
+
+2. Navigate to the project folder
+
+
+#About Me
+
+Meet Benjamin Bosire, a keen learner with a passion for mastering  HTML, CSS and Javascript.
+
+
+   
