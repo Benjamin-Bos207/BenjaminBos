@@ -20,5 +20,13 @@ https://github.com/user-attachments/assets/5ebc36a9-ffb0-47e8-a61a-8278baf848fa
 
 Meet Benjamin Bosire, a keen learner with a passion for mastering  HTML, CSS and Javascript.
 
+#License Templates
+
+These files are designed to be used by Visual Basic Code and a web browser
+
+#Copyright
+
+All licences in this repository are copyrighted by their respective authors.
+
 
    
